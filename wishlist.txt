@@ -1,0 +1,14 @@
+// Spare Rations
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 247725512, 1015611457#notes:Hammer Forged | High Cal. | Rapid Hit | Kill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 247725512, 3425386926#notes:Hammer Forged | High Cal. | Rapid Hit | Rampage
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 247725512, 2458213969#notes:Hammer Forged | High Cal. | Rapid Hit | Multikill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 1354429876, 1015611457#notes:Hammer Forged | High Cal. | Fourth Time's The Charm | Kill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 1354429876, 3425386926#notes:Hammer Forged | High Cal. | Fourth Time's The Charm | Rampage
+dimwishlist:item=3116356268&perks=3250034553, 1561002382, 1354429876, 2458213969#notes:Hammer Forged | High Cal. | Fourth Time's The Charm | Multikill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 247725512, 1015611457#notes:Hammer Forged | Appended Mag | Rapid Hit | Kill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 247725512, 3425386926#notes:Hammer Forged | Appended Mag | Rapid Hit | Rampage
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 247725512, 2458213969#notes:Hammer Forged | Appended Mag | Rapid Hit | Multikill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 1354429876, 1015611457#notes:Hammer Forged | Appended Mag | Fourth Time's The Charm | Kill Clip
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 1354429876, 3425386926#notes:Hammer Forged | Appended Mag | Fourth Time's The Charm | Rampage
+dimwishlist:item=3116356268&perks=3250034553, 1087426260, 1354429876, 2458213969#notes:Hammer Forged | Appended Mag | Fourth Time's The Charm | Multikill Clip
+
